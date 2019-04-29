@@ -1,0 +1,31 @@
+{
+  "iconDefinitions": {
+    "_dark_folder": {
+      "iconPath": "./images/dark-folder.svg"
+    },
+    "_dark_folder_open": {
+      "iconPath": "./images/dark-folder-open.svg"
+    },
+    "_dark_file": {
+      "iconPath": "./images/dark-file.svg"
+    },
+    "_light_folder": {
+      "iconPath": "./images/light-folder.svg"
+    },
+    "_light_folder_open": {
+      "iconPath": "./images/light-folder-open.svg"
+    },
+    "_light_file": {
+      "iconPath": "./images/light-file.svg"
+    }
+  },
+  "folder": "_dark_folder",
+  "folderExpanded": "_dark_folder_expanded",
+  "file": "_dark_file",
+  "light": {
+    "folder": "_light_folder",
+    "folderExpanded": "_light_folder_open",
+    "file": "_light_file"
+  },
+  "hidesExplorerArrows": true
+}

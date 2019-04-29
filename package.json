@@ -1,0 +1,38 @@
+{
+  "name": "awesome-icons",
+  "version": "1.0.0",
+  "displayName": "Awesome icons",
+  "description": "Minimalistic file icon theme",
+  "publisher": "Pakastin",
+  "maintainers": [
+    "Juha Lindstedt <juha@pakastin.fi>"
+  ],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+		"icon-theme",
+		"awesome"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "awesome-icons",
+        "label": "Awesome Icons (Pakastin)",
+        "path": "./fileicons/awesome-icons.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pakastin/awesome-icons.git"
+  },
+  "homepage": "https://github.com/pakastin/awesome-icons/blob/master/README.md",
+  "license": "MIT"
+}
