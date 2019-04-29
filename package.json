@@ -1,6 +1,6 @@
 {
   "name": "awesome-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Awesome icons",
   "description": "Minimalistic file icon theme",
   "publisher": "pakastin",
@@ -17,8 +17,8 @@
   "keywords": [
     "icons",
     "theme",
-		"icon-theme",
-		"awesome"
+    "icon-theme",
+    "awesome"
   ],
   "contributes": {
     "iconThemes": [
