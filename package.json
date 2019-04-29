@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Awesome icons",
   "description": "Minimalistic file icon theme",
-  "publisher": "Pakastin",
+  "publisher": "pakastin",
   "maintainers": [
     "Juha Lindstedt <juha@pakastin.fi>"
   ],
@@ -24,7 +24,7 @@
     "iconThemes": [
       {
         "id": "awesome-icons",
-        "label": "Awesome Icons (Pakastin)",
+        "label": "Awesome Icons (pakastin)",
         "path": "./fileicons/awesome-icons.json"
       }
     ]
