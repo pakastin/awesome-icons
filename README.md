@@ -1,6 +1,6 @@
 # Awesome Icons
 
-A minimalistic icon theme for [Visual Studio Code](http://code.visualstudio.com). Uses the awesome [Font Awesome icons](https://fontawesome.com/).
+A minimalistic icon theme for [Visual Studio Code](http://code.visualstudio.com). Uses the awesome [Font Awesome icons](https://fontawesome.com/) with [license](https://fontawesome.com/license/free).
 
 ## Preview
 
