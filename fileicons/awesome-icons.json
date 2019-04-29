@@ -20,7 +20,7 @@
     }
   },
   "folder": "_dark_folder",
-  "folderExpanded": "_dark_folder_expanded",
+  "folderExpanded": "_dark_folder_open",
   "file": "_dark_file",
   "light": {
     "folder": "_light_folder",
